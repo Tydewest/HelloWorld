@@ -1,0 +1,32 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "A Simple \"Hello, World!\" NodeJS Application Built Using Express",
+  "main": "Application.js",
+  "scripts": {
+    "start:prod": "node Application.js",
+    "start:dev": "nodemon Applications.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "NPM"
+  ],
+  "author": "Lachy Schumacher",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComponentOne/HelloWorld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ComponentOne/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/ComponentOne/HelloWorld#readme"
+}
