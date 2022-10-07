@@ -1,7 +1,7 @@
 {
-  "name": "helloworld",
+  "name": "netspark",
   "version": "1.0.0",
-  "description": "A Simple \"Hello, World!\" NodeJS Application Built Using Express",
+  "description": "A Simple NodeJS Application Built Using Express",
   "main": "Application.js",
   "scripts": {
     "start:prod": "node Application.js",
@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ComponentOne/HelloWorld.git"
+    "url": "git+https://github.com/ComponentOne/netspark.git"
   },
   "bugs": {
-    "url": "https://github.com/ComponentOne/HelloWorld/issues"
+    "url": "https://github.com/ComponentOne/netspark/issues"
   },
-  "homepage": "https://github.com/ComponentOne/HelloWorld#readme"
+  "homepage": "https://github.com/ComponentOne/netspark#readme"
 }
