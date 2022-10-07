@@ -1,4 +1,4 @@
-# NetSpark # :zap:
+# NetSpark:zap:
 
 ### Install Dependancies ###
 ```
